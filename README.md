@@ -8,7 +8,7 @@
 
   <img alt="License" src="https://img.shields.io/github/license/dpalmas/notes-app?color=0000FF&logo=MIT">
   
-  <a href="https://github.com/davipalmas/omnistack11/commits/master">
+  <a href="https://github.com/dpalmas/notes-app/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dpalmas/notes-app?color=0000FF">
   </a>
 </p>
@@ -34,7 +34,7 @@ This project was developed with the following technologies:
 **Notes App** it's a simple notes web application to create, read, update and delete notes.
 
 <p align="center">
-  <img alt="Simple ToDo App" src="/images/notes-app.png" width="100%">
+  <img alt="Simple Notes App" src="/images/notes-app.png" width="100%">
 </p>
 
 ## :computer: Instalation
