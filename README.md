@@ -6,7 +6,7 @@
   
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/dpalmas/notes-app?color=0000FF">
 
-  <img alt="License" src="https://img.shields.io/github/license/dpalmas/notes-app?color=0000FF&logo=MIT">
+ <img alt="License" src="https://img.shields.io/github/license/dpalmas/todo-app?color=0000FF&logo=MIT">
   
   <a href="https://github.com/dpalmas/notes-app/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/dpalmas/notes-app?color=0000FF">
@@ -44,7 +44,7 @@ This project was developed with the following technologies:
 ```
 git clone https://github.com/dpalmas/notes-app.git
 
-cd todo-app
+cd notes-app
 ```
 
 ## :memo: License
