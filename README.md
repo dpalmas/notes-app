@@ -22,7 +22,7 @@
 
 ## :rocket: Technologies
 
-This project was developed with the following technologies:
+This project was developed in Modern Javascript Bootcamp 2019 with the following technologies:
 
 - [Javascript](https://www.javascript.com/)
 - [HTML 5](https://www.w3.org/TR/html52/)
