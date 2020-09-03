@@ -27,7 +27,6 @@ This project was developed in Modern Javascript Bootcamp 2019 with the following
 - [Javascript](https://www.javascript.com/)
 - [HTML 5](https://www.w3.org/TR/html52/)
 - [CSS 3](https://www.w3.org/Style/CSS/)
-- [Bootstrap 4.0](https://getbootstrap.com/)
 
 ## :thinking: About this Project
 
