@@ -48,4 +48,4 @@ cd notes-app
 ```
 
 ## :memo: License
-This project is licensed under the license [MIT](./LICENSE)
+[MIT](./LICENSE)
